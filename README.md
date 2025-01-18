@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Everaldo Junior</h1>
-<h3 align="center">Sou desenvolvedor, amo tecnológia da informação e estou na área há mais de uma década.</h3>
+<h3 align="center">Sou desenvolvedor, amo tecnologia da informação e estou na área há mais de uma década.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silvajunior&label=Profile%20views&color=0e75b6&style=flat" alt="silvajunior" /> </p>
 
